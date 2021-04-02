@@ -8,4 +8,6 @@
 
 - Form creation [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form]
 
+- Invert() in CSS [https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/invert()]
+
 - Made a gym landing page(given above)
