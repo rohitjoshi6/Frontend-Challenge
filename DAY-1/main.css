@@ -50,6 +50,10 @@ body{
     background:white;
 }
 
+.content a{
+    text-decoration: none;
+}
+
 /*  main area */
 
 .container{
