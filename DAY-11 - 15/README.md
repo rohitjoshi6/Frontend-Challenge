@@ -8,5 +8,5 @@
 - Transition
 - Hanburger menu
 
-<img src="./Mockup">
+<img src="./Mockup.png">
 
