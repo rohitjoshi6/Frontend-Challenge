@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #e5d1e8;
+}
+
 .form{
     margin:auto;
     max-width: 80%;
