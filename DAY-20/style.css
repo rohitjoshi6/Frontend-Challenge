@@ -59,3 +59,33 @@ button{
             19px -19px 39px #fffdfd;
     color:black;        
 }
+
+
+/*Media-queries*/
+
+@media only screen 
+   and (max-width : 768px) {
+   
+    .background{
+        overflow-y: visible;
+        background-image: none;
+    }
+
+    .container{
+        display: flex;
+        margin:26px;
+        justify-content: center;
+        align-items:center;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    button.container-btn {
+        height: 106px;
+        width: 198px;
+    }
+
+    .top-section{
+        margin-top:0;
+    }
+}
